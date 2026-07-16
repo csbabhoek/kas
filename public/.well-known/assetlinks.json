@@ -1,1 +1,8 @@
-
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.csbabhoek.twa",
+        "sha256_cert_fingerprints": ["B4:28:86:A1:79:F5:25:E6:F3:11:5E:68:66:B4:F9:F6:84:1A:55:73:D8:1C:49:9B:F2:68:4D:E3:0E:37:50:1D"]
+      }
+    }]
